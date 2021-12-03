@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638530770 source:c:\users\miko9\documents\code block\myhello\1103558_lab9\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
